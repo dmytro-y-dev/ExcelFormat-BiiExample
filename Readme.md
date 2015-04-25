@@ -6,7 +6,9 @@ ExcelFormat+bii usage example
 
 ExcelFormat allows reading, writing, and editing of XLS (BIFF8 format) files using C++. For more details see <http://www.codeproject.com/Articles/42504/ExcelFormat-Library>.
 
-For bii library see <https://www.biicode.com/metamaker/ExcelFormat>. 
+For bii library see <https://www.biicode.com/metamaker/ExcelFormat>.
+
+[![Build Status](https://travis-ci.org/metamaker/ExcelFormat-BiiExample.svg?branch=master)](https://travis-ci.org/metamaker/ExcelFormat-BiiExample)
 
 How to build
 ------------
