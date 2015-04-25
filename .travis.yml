@@ -24,3 +24,6 @@ script:
   - bii init -L
   - if [ "$CXX" == "clang++" ]; then export CXX="clang++" && bii build; fi
   - if [ "$CXX" == "g++" ];     then export CXX="g++"     && bii build; fi
+env:
+  global:
+  - GCC_VERSION="4.9"
