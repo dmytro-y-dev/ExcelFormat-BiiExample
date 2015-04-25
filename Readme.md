@@ -13,7 +13,7 @@ For bii library see <https://www.biicode.com/metamaker/ExcelFormat>.
 How to build
 ------------
 
-You need `bii` (<http://www.biicode.com>) to compile this example. To build this exampe go through following steps:
+You need `bii` (<http://www.biicode.com>) to compile this example. To build this example go through following steps:
 
 1. Open command line and change current directory with `$ cd` command to the directory where you unpacked the project's source code.
 2. Run `$ bii buzz -G "Visual Studio 12"` (or use other generator if you use other IDE).
