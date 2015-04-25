@@ -1,5 +1,8 @@
 #include <ExcelFormat/ExcelFormat.h>
 
+#define	FW_NORMAL	400
+#define	FW_BOLD		700
+
 using namespace ExcelFormat;
 
 static void example1(const char* path)
